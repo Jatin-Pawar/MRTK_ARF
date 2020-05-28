@@ -21,4 +21,7 @@ MRTK stands for Mixed Reality ToolKit. It is a Microsoft-driven project that pro
 
 Running MRTK Sample in AR
 
-![](https://media.giphy.com/media/mDGQmONrqfwjlfYW0f/source.gif)
+
+![](final_1.gif)
+
+
