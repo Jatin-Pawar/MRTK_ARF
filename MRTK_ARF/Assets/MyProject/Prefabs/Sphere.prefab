@@ -157,8 +157,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8200a044a5affb843ba856b902d9fd3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetObject: {fileID: 0}
-  boundsOverride: {fileID: 0}
+  targetObject: {fileID: 5481837383240849854}
+  boundsOverride: {fileID: 5841601313327496595, guid: 02ad76a85c548bc4ebc3f2ab1024d2a2,
+    type: 3}
   boundsCalculationMethod: 0
   activation: 3
   drawTetherWhenManipulating: 1

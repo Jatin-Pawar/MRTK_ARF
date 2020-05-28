@@ -300,7 +300,6 @@ GameObject:
   - component: {fileID: 1011694447}
   - component: {fileID: 1011694451}
   - component: {fileID: 1011694450}
-  - component: {fileID: 1011694449}
   - component: {fileID: 1011694452}
   m_Layer: 0
   m_Name: AR Session Origin
@@ -336,20 +335,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1011694449
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1011694446}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ab0e80cee9cc1d44928bfe488dd1e2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_PointCloudPrefab: {fileID: 559381283434016337, guid: b42c438da461b9840966193d4606bdc6,
-    type: 3}
 --- !u!114 &1011694450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -376,7 +361,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PlanePrefab: {fileID: 1300726317287243042, guid: 9cbeb74e2aa6a4e4b94db64b12c7b5e3,
     type: 3}
-  m_DetectionMode: -1
+  m_DetectionMode: 1
 --- !u!114 &1011694452
 MonoBehaviour:
   m_ObjectHideFlags: 0
