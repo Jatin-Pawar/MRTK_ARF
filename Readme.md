@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/jatin-pawar/" alt="Developer">
         <img src="https://img.shields.io/badge/made%20by-Jking-orange" /></a> 
-    <img src="https://img.shields.io/badge/tech-Unity%20ARFoundation%20Unity-red" />
+    <img src="https://img.shields.io/badge/tech-Unity%20ARFoundation%20MRTK-red" />
     
 </p>
 
